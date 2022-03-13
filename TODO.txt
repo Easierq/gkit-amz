@@ -1,0 +1,26 @@
+install remain package first
+
+nextauth setup
+firebase project and other actions like registering of web app and copying keys to firebase.js and adding authenticaation and other things refer to video
+firebase google authenticaation setup
+try sign in and copy code from google error page
+## watch video from 34th minute
+
+
+watch video for stripe setup
+add keys to env.local
+##do not put private anything in next.config.js
+
+
+create shipping rate at 56:36
+
+create stripe-cli usig windows on their official page (stripe-cli install on windows)
+follow video step by step
+
+copy this: stripe.exe listen --forward-to localhost:3000/api/webhook
+
+browse through firebase website for key generation
+permissions.json --> the file downloaded
+setup firebase firestore
+
+watch from the last 30min
